@@ -1,0 +1,23 @@
+{
+  "user": {
+    "name": "John Doe",
+    "email": "john.doe01@test.com",
+    "account-information":{
+      "title": "Mr",
+      "password": "password123",
+      "dob": [ 17, "September", "2000" ]
+    },
+    "address-information": {
+      "firstName": "John",
+      "lastName": "Doe",
+      "company": "Example Company",
+      "address1": "123 Main Street",
+      "address2": "Apt 101",
+      "country": "United States",
+      "state": "California",
+      "city": "San Francisco",
+      "zip": "94107",
+      "mobile": "1234567890"
+    }
+  }
+}
